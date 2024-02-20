@@ -1,0 +1,6 @@
+{
+    "k6_server_addr": ["10.186.117.4:6565","10.186.117.5:6565","10.186.117.7:6565"], 
+    "workload_record_file": "test.csv", 
+    "time_interval": 240, 
+    "expected_time": 57600
+}
